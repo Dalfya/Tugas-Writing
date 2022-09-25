@@ -76,7 +76,9 @@ Dibawah ini beberapa tag HTML dan pengertiannya
 __Elemen semantic__ adalah elemen yang dengan jelas menggambarkan artinya bagi browser dan pengembang.contohnya tag nav, tag article, tag section. Berikut tag semantic HTML , elemen semantik dengan jelas menggambarkan artinya bagi browser dan pengembang. contoh elemen semantic: _form , table, dan article_ Jelas mendefinisikan isinya.
 
 Contoh HTML sederhana
+
 ![HTML sederhana](html-sederhana.png)
+
 
 Berikut langkah langkah mendeploy file HTML ke Netlify
 *Buat file HTML terlebih dahulu di VS code
