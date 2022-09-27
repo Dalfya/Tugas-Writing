@@ -20,7 +20,7 @@ Berikut beberapa command / perintah yang saya peajari di unix :
 *  Untuk membuat direktori kita dapat menggunakan commad _mkdir <nama_direktori>_  dan command _touch <nama_file>_ untuk membuat file.
 * Untuk menyalin file kita dapat menggunakan _cp_ dan untuk menyalin direktori dapat menggunakan perintah _cp -R_.
 
-* Untuk memindahkan file dapat menggunakan command mv kemudian untuk rename nama file dapat menggunakan command yang sama yaitu  rm <nama_file_baru>. kemudian untuk memindahkan direktori dapat menggunakan command rm -R, untuk mengubah nama direktori dapat menggunakan command mv <old-folder-name> <new-folder-name>
+* Untuk memindahkan file dapat menggunakan command mv kemudian untuk rename nama file dapat menggunakan command yang sama yaitu  mv <nama_file_baru>. kemudian untuk memindahkan direktori dapat menggunakan command mv -R, untuk mengubah nama direktori dapat menggunakan command mv <old-folder-name> <new-folder-name>
     
 * Untuk menghapus file kita dapat menggunakan command rm dan untuk menghapus direktori dapat menggunakan _rm -D / rm – rf(untuk paksa hapus)_.
   
