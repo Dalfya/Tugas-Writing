@@ -125,7 +125,7 @@ Perbedaan antara Algoritma dan Data Structures
 
 >Manfaat dari algoritma dan data structure Algoritma di sini bermanfaat untuk membantu berpikir secara sistematis dan terstrukur untuk menyelesaikan masalah. Membuang hal-hal yang tidak diperlukan dan fokus untuk mencari solusi dari permasalahan yang saya hadapi.
 
-    Algoritma menghitung luas segitiga
+    Algoritma menghitung luas Persegi Panjang
     1. Mulai
     2. Masukan panjang
     3. Masukkan lebar
@@ -136,21 +136,6 @@ Perbedaan antara Algoritma dan Data Structures
 Menerapkan algoritma ke dalam bahasa pemrograman _JavaScript_ ( mempraktikkan pendekatan menyelesaikan suatu masalah untuk diselesaikan melalui program).
 
 ![Algoritma sederhana](asd-js.png)
-
->Big O Notation /
-Notasi Big-O adalah sebuah cara atau metode untuk melakukan analisa terhadap sebuah algoritma pemrograman terhadap waktu eksekusi. Tentang seberapa efisien dan kompleksitas barisan kode dalam dimensi waktu. Notasi big O merupakan skenario terburuk dari sebuah algoritma, dan biasanya terdapat notasi n yang merepresentasikan jumlah.
-
-|Kompleksitas|	Operasi |
-|---------|:----------:|
-|O(1)|	Menjalankan sebuah perintah|
-|O(1)|	Mendapatkan sebuah item dari array, objek atau variabel|
-|O(log n)|	Pengulangan yang berkurang setengahnya setiap iterasi|
-|O(n2)|	Pengulangan dalam pengulangan|
-|O(n3)|	Pengulangan dalam pengulangan dalam pengulangan|
-
->Menerapkan salah satu struktur data dengan JavaScript
-
-![Menerapkan salah satu struktur data dengan JavaScript](js-struk-data.png)
 
 
 # JavaScript dasar
