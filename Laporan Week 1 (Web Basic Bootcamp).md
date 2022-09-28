@@ -181,7 +181,7 @@ Jenis-jenis operatordalam javascript
 # SEKIAN DAN TERIMA KASIH
 # Diego Alfiandro
 
-_src : petani kode_
+_src : Dyalfya_
 
 
 
