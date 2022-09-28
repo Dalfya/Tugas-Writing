@@ -111,10 +111,6 @@ Berikut beberapa styling dalam css
 *   Font-family : mengubah/menambahkan jenis font\
 ![CSS styling](css-in-int.png)
 
-Salah satu metode responsive web design menggunakan CSS
-
-![CSS reponsif](css-responsif.png)
-
 CSS Flexbox
 terdapat dua komponen utama sebuah layout Flexbox yaitu __container__ dan __item__. Untuk membuat CSS flexbox sangat sederhana dan mudah untuk diterapkan, dengan memberikan style display: flex; pada container, Anda sudah berhasil membuat CSS flexbox. Dengan properti flex-direction Anda bisa menggunakannya untuk menentukan arah (direction) untuk item-item yang berada didalam container flexbox. Flex-direction mempengaruhi arah sumbu utama (_main axis_) dan sumbu silang (_cross axis_).
 Secara default flex-direction bernilai row, ini artinya arah sumbu mengarah secara __horizontal__.
